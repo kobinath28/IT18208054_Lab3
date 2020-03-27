@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="name">Name</string>
+    <string name="EditMessage">Enter the Message</string>
+    <string name="button_send">Send</string>
+</resources>
